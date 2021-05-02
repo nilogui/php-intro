@@ -1,0 +1,20 @@
+==>B Introdução ao PHP (Prof. Eduardo Cesar)
+- https://web.digitalinnovation.one/browse ==> https://web.digitalinnovation.one/course/introducao-ao-php/learning/e4a95f02-c8b5-4046-a657-335680c984d9
+- PHP files can contain text, HTML, CSS, JavaScript, and PHP code. (https://www.w3schools.com/php/php_intro.asp)
+- PHP (um acrônimo recursivo para "PHP: Hypertext Preprocessor", originalmente Personal Home Page) é uma linguagem interpretada livre, usada originalmente apenas para o desenvolvimento de aplicações presentes e atuantes no lado do servidor, capazes de gerar conteúdo dinâmico na World Wide Web. (https://pt.wikipedia.org/wiki/PHP)
+- PHP é Server Side (Back End). Usar XAMPP com Windows.
+- PHP Orientado a Objetos a partir da versão 5.0. Atualmente inclui o paradigma de programação funcional. 
+- Permite a criação de middleware, que fica entre o frontend e backend. https://cursos7.com.br/inserindo-codigo-php-no-wordpress
+- PHP CMS (Wordpress / Drupal / Magento / October). Mais de 50% da web. https://conaenge.com.br/info.php
+- Ecosistema PHP com Frameworks (Symfony / Zend / Laravel / Cake / Phalcon)
+- phpinfo(); (comando PHP para mostrar infos do PHP instalado no Servidor)
+- PSR Padrões de Código (Definições da linguagem de programação PHP).
+- http://localhost (com o servidor Apache ativado no XAMPP). Isto fará rodar o index.php
+- print_r() exibe informação sobre uma variável em uma maneira que é legível para humanos. Lembre-se de que print_r() moverá o ponteiro do array para o fim. Utilize reset() para levá-lo de volta ao início.
+- Request e Response | Métodos/Verbos | Headers
+- $_GET (header) e $_POST (body)
+- git init / git status / git add index.php / git commit -m 'commit inicial' / git branch -M main / 
+    git remote add origin https://github.com/nilogui/php-intro.git / git push origin main
+- session_start(); / $_SESSION;
+- $ pwd (mostra em qual pasta estou)
+==>E Introdução ao PHP (Prof. Eduardo Cesar)
